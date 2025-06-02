@@ -1,1 +1,5 @@
 # Seperation-Efficiency-Prediction-of-RBCs-and-WBCs-using-Machine-Learning
+This project develops a robust Machine Learning solution focused on forecasting the Efficiency of a system. Leveraging a synthetic dataset of 600 operational records with 6 critical features, the project meticulously performs Exploratory Data Analysis (EDA) using Python's Pandas, Seaborn, and Matplotlib libraries to extract key insights and ensure data quality. Data preprocessing includes feature scaling with StandardScaler and categorical encoding using LabelEncoder.
+
+The solution implements a sophisticated Neural Network model built with TensorFlow's Keras API, utilizing Dense and Dropout layers for robust prediction. Through thorough training and evaluation, the model aims to achieve high-precision predictive capabilities for system efficiency, as evidenced by the monitoring of loss and Mean Absolute Error (MAE) during training. This predictive capability is designed to enable optimized system performance and potentially improve operational outcomes.
+
