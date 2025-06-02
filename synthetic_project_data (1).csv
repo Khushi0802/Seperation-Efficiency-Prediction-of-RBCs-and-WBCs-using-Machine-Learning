@@ -1,0 +1,601 @@
+Re,Magnet Center Distance,Amplitude,Outlet Type,Magnet Shape,Efficiency
+0.015,1700,10,Type A,Circular,94.0775
+0.012,1200,8,Type B,Square,60.197500000000005
+0.01,1700,8,Type B,Square,85.1975
+0.08,1750,0,Type B,Triangular,69.4675
+0.1,1600,9,Type A,Square Rotated 45,82.6225
+0.02,1550,10,Type A,Square Rotated 45,93.5675
+0.028,1725,8,Type A,Triangular,86.46
+0.02,1712,9,Type A,Square,96.1925
+0.08,1575,6,Type B,Circular,86.9325
+0.0225,1300,5,Type A,Square,73.37
+0.1,1550,0,Type B,Square Rotated 45,74.80499999999999
+0.08,1700,0,Type A,Triangular,70.80499999999999
+0.03,1550,9,Type A,Triangular,81.645
+0.01,2000,4,Type B,Circular,65.97500000000001
+0.028,1550,6,Type A,Triangular,89.5975
+0.05,1900,9,Type A,Square,81.235
+0.021,1850,9,Type A,Square,91.8475
+0.028,1712,7,Type A,Square Rotated 45,91.95
+0.021,1575,7,Type B,Circular,96.36
+0.012,1800,8,Type B,Square Rotated 45,81.29
+0.03,1550,5,Type B,Triangular,84.9025
+0.02,1550,5,Type A,Triangular,93.8175
+0.01,1300,7,Type A,Square Rotated 45,59.22
+0.03,1200,10,Type B,Triangular,55.11
+0.05,1300,4,Type B,Square,53.14
+0.08,1900,7,Type A,Square,80.275
+0.015,1600,7,Type A,Square,98.36
+0.08,1725,0,Type B,Triangular,69.97
+0.012,1725,10,Type B,Triangular,75.69
+0.015,1850,4,Type B,Square Rotated 45,81.83500000000001
+0.01,1850,6,Type A,Triangular,77.2925
+0.03,1900,10,Type A,Circular,79.015
+0.1,1712,10,Type A,Square,82.1775
+0.01,1900,10,Type A,Circular,75.43
+0.015,1500,10,Type B,Circular,81.5775
+0.029,1550,8,Type B,Circular,91.4925
+0.03,1712,5,Type B,Square,90.535
+0.03,1900,4,Type B,Square Rotated 45,70.7975
+0.012,1600,7,Type A,Circular,84.73
+0.015,2000,6,Type A,Square,92.105
+0.08,1550,4,Type B,Square,75.5625
+0.012,1725,4,Type B,Circular,73.035
+0.021,1600,6,Type A,Triangular,92.94749999999999
+0.028,1712,5,Type B,Square,95.23
+0.012,1725,9,Type B,Square Rotated 45,81.7675
+0.01,1500,9,Type B,Triangular,65.56
+0.021,1575,10,Type A,Circular,93.2075
+0.005,1725,6,Type A,Triangular,67.9825
+0.012,1725,4,Type B,Square,74.16499999999999
+0.01,1750,4,Type A,Triangular,67.48
+0.029,1600,0,Type A,Square Rotated 45,82.21
+0.01,1300,5,Type A,Square,62.5
+0.029,1850,9,Type A,Triangular,81.46000000000001
+0.08,1712,0,Type B,Circular,75.3075
+0.012,1700,8,Type A,Circular,84.06750000000001
+0.1,1750,8,Type A,Triangular,77.6975
+0.029,1725,5,Type A,Square Rotated 45,92.45
+0.0225,1850,5,Type B,Square Rotated 45,92.705
+0.02,1850,0,Type B,Circular,83.77000000000001
+0.025,1712,8,Type B,Square Rotated 45,93.2375
+0.012,1712,9,Type A,Triangular,77.51
+0.021,1550,4,Type A,Triangular,80.44749999999999
+0.021,1700,7,Type B,Triangular,91.30749999999999
+0.005,1550,6,Type A,Triangular,68.8175
+0.029,1200,4,Type B,Circular,56.295
+0.01,1575,0,Type A,Square Rotated 45,74.785
+0.025,1800,8,Type B,Square,93.16000000000001
+0.08,1900,8,Type A,Square,79.6125
+0.012,1800,8,Type A,Triangular,76.7475
+0.03,1575,5,Type B,Triangular,84.9025
+0.021,1850,7,Type B,Circular,92.33500000000001
+0.028,1750,9,Type B,Square,91.185
+0.0225,1850,5,Type A,Circular,93.215
+0.021,1500,8,Type A,Square Rotated 45,82.6875
+0.015,1600,0,Type B,Triangular,82.74249999999999
+0.028,2000,10,Type B,Square Rotated 45,81.4525
+0.08,1800,4,Type B,Square Rotated 45,71.655
+0.028,1900,7,Type A,Circular,86.8625
+0.02,1575,0,Type A,Triangular,82.74249999999999
+0.025,1850,8,Type A,Square,91.4025
+0.02,1600,8,Type A,Triangular,91.515
+0.02,1750,6,Type A,Circular,97.5325
+0.02,1700,7,Type B,Square,98.36
+0.02,1900,6,Type B,Square Rotated 45,92.21249999999999
+0.028,1725,7,Type A,Circular,92.17500000000001
+0.015,1200,6,Type A,Triangular,68.8175
+0.0225,1725,7,Type B,Circular,94.765
+0.015,1600,6,Type A,Square Rotated 45,98.36
+0.1,1712,10,Type B,Triangular,75.99499999999999
+0.01,1712,0,Type B,Triangular,69.6925
+0.05,1500,7,Type B,Square Rotated 45,74.86
+0.021,1500,5,Type B,Square Rotated 45,84.99
+0.028,1575,7,Type B,Circular,93.01
+0.02,1300,10,Type B,Triangular,64.02499999999999
+0.029,1700,8,Type A,Square Rotated 45,90.9825
+0.08,1700,8,Type A,Triangular,79.5775
+0.01,1725,0,Type B,Triangular,69.4075
+0.1,1750,6,Type A,Square Rotated 45,84.5425
+0.005,1850,7,Type B,Square Rotated 45,67.695
+0.05,1900,7,Type A,Square,82.85249999999999
+0.05,1712,9,Type A,Square,86.83250000000001
+0.005,1850,8,Type B,Square Rotated 45,67.0325
+0.012,1850,10,Type A,Triangular,72.5
+0.0225,1700,9,Type B,Square Rotated 45,93.47250000000001
+0.028,1900,4,Type A,Triangular,70.95
+0.05,1800,7,Type A,Triangular,80.55
+0.0225,1700,4,Type B,Square Rotated 45,84.23
+0.1,1600,10,Type B,Square,82.72749999999999
+0.012,1800,4,Type B,Circular,71.6025
+0.05,1850,8,Type B,Square Rotated 45,82.6725
+0.028,1575,10,Type A,Square Rotated 45,89.3475
+0.025,1300,8,Type B,Circular,69.2975
+0.01,1712,4,Type A,Square,74.45
+0.029,1850,4,Type A,Square Rotated 45,76.76
+0.005,1575,7,Type A,Triangular,67.1775
+0.01,2000,5,Type A,Square,79.605
+0.005,2000,0,Type B,Square,56.03
+0.028,1200,0,Type A,Circular,58.575
+0.021,1800,6,Type B,Square,96.8625
+0.028,1600,8,Type A,Triangular,87.295
+0.02,1700,10,Type B,Circular,94.0775
+0.01,1550,9,Type B,Triangular,78.06
+0.015,1900,0,Type B,Square Rotated 45,81.1375
+0.08,1800,9,Type B,Square Rotated 45,80.89750000000001
+0.1,1900,9,Type A,Circular,76.985
+0.028,1600,4,Type A,Triangular,77.0975
+0.015,1850,6,Type B,Square Rotated 45,94.335
+0.005,1900,0,Type B,Circular,56.64750000000001
+0.05,1700,5,Type B,Square,90.64
+0.0225,1550,4,Type B,Circular,84.74000000000001
+0.05,1700,9,Type A,Square Rotated 45,85.7425
+0.021,2000,7,Type B,Triangular,83.4125
+0.0225,1500,6,Type A,Circular,84.74000000000001
+0.08,1712,8,Type A,Circular,84.08000000000001
+0.012,1700,6,Type A,Square Rotated 45,85.86
+0.015,1850,8,Type A,Square Rotated 45,92.0325
+0.01,1575,0,Type B,Square Rotated 45,74.785
+0.02,1300,6,Type B,Square,75.0
+0.021,2000,8,Type B,Triangular,82.75
+0.021,1500,8,Type B,Square Rotated 45,82.6875
+0.0225,1750,8,Type B,Circular,93.60000000000001
+0.1,1200,7,Type B,Circular,59.75
+0.025,1700,7,Type A,Triangular,89.9075
+0.015,1600,0,Type B,Square,88.925
+0.03,2000,4,Type A,Triangular,64.5075
+0.028,1750,9,Type A,Circular,90.055
+0.0225,2000,4,Type B,Circular,76.845
+0.021,1500,9,Type B,Square,83.3725
+0.029,1712,4,Type B,Square Rotated 45,80.235
+0.025,1300,7,Type B,Square Rotated 45,69.45
+0.025,1700,8,Type B,Square,95.42750000000001
+0.1,1700,6,Type B,Circular,86.39
+0.005,1900,10,Type B,Circular,62.93000000000001
+0.08,1600,6,Type A,Square,88.0625
+0.0225,1575,7,Type A,Triangular,90.5475
+0.02,1800,5,Type B,Square Rotated 45,96.0925
+0.005,1200,9,Type A,Triangular,40.56
+0.029,1850,6,Type A,Triangular,84.7175
+0.015,1200,9,Type B,Triangular,65.56
+0.029,1575,9,Type A,Triangular,85.48499999999999
+0.015,1575,9,Type A,Circular,95.61250000000001
+0.012,1700,8,Type B,Square Rotated 45,83.5575
+0.03,1712,10,Type B,Square Rotated 45,84.10249999999999
+0.03,1300,6,Type B,Circular,64.955
+0.05,1700,6,Type B,Triangular,84.4575
+0.08,1700,9,Type A,Triangular,78.6225
+0.028,1300,7,Type B,Circular,68.01
+0.028,1750,0,Type A,Triangular,77.185
+0.005,1700,4,Type B,Circular,61.370000000000005
+0.03,1500,7,Type A,Square,76.945
+0.012,1712,6,Type A,Square,86.95
+0.0225,1850,0,Type B,Triangular,77.08749999999999
+0.021,1550,8,Type B,Triangular,90.645
+0.025,1725,4,Type A,Triangular,78.21249999999999
+0.029,2000,8,Type A,Triangular,78.545
+0.08,1750,4,Type A,Square Rotated 45,72.58500000000001
+0.02,1575,7,Type B,Square Rotated 45,96.72
+0.02,1750,8,Type B,Square Rotated 45,94.72
+0.1,1700,6,Type A,Triangular,81.33749999999999
+0.015,1300,4,Type B,Triangular,56.317499999999995
+0.0225,1300,5,Type B,Square Rotated 45,71.73
+0.03,1725,8,Type B,Square Rotated 45,86.3075
+0.029,2000,4,Type B,Square Rotated 45,72.89
+0.1,1300,7,Type A,Square Rotated 45,59.239999999999995
+0.05,1550,8,Type A,Square Rotated 45,86.6975
+0.05,1575,6,Type B,Square,90.64
+0.08,1600,5,Type B,Square,88.0625
+0.005,1700,8,Type B,Square Rotated 45,71.0575
+0.015,2000,8,Type A,Triangular,83.62
+0.029,1800,8,Type A,Square,90.355
+0.005,1550,10,Type A,Square,70.2075
+0.0225,1500,6,Type B,Square Rotated 45,84.23
+0.1,1712,4,Type B,Triangular,68.2875
+0.021,1700,9,Type A,Square Rotated 45,94.2325
+0.08,1900,7,Type A,Circular,79.145
+0.025,1200,5,Type A,Square,72.73
+0.012,1725,5,Type B,Square Rotated 45,85.025
+0.03,1200,9,Type B,Square,62.8275
+0.08,1800,0,Type B,Circular,73.59
+0.02,1600,7,Type B,Square Rotated 45,96.72
+0.0225,1712,9,Type A,Square,94.5625
+0.015,1300,5,Type A,Square,75.0
+0.015,1900,0,Type B,Square,82.7775
+0.012,1800,9,Type B,Square,81.975
+0.028,1800,9,Type B,Triangular,84.07249999999999
+0.021,1900,6,Type B,Square,92.9825
+0.025,1600,9,Type A,Square Rotated 45,92.8325
+0.01,1900,6,Type B,Circular,80.2225
+0.029,1900,4,Type B,Square,76.2775
+0.029,1750,4,Type B,Square Rotated 45,79.4475
+0.012,1600,4,Type B,Circular,73.87
+0.025,1850,10,Type B,Square Rotated 45,87.2725
+0.03,1712,5,Type A,Triangular,84.35249999999999
+0.021,1575,10,Type A,Square Rotated 45,92.69749999999999
+0.029,1550,6,Type A,Triangular,88.74249999999999
+0.029,1900,10,Type B,Square Rotated 45,82.345
+0.005,1550,9,Type B,Square,71.7425
+0.08,2000,0,Type B,Triangular,62.91
+0.028,1500,0,Type A,Triangular,66.0225
+0.0225,2000,0,Type B,Square Rotated 45,77.76
+0.025,1800,8,Type A,Circular,92.03000000000002
+0.08,1850,0,Type A,Square Rotated 45,71.3225
+0.01,1500,4,Type B,Square,62.5
+0.1,1900,0,Type B,Square Rotated 45,68.6575
+0.01,1800,10,Type A,Square,80.44
+0.05,1725,9,Type A,Square Rotated 45,84.9075
+0.028,1750,0,Type B,Circular,82.23750000000001
+0.021,1300,10,Type B,Triangular,63.155
+0.1,1200,4,Type A,Circular,48.89
+0.021,1575,6,Type B,Circular,98.0
+0.025,1550,9,Type B,Triangular,88.28999999999999
+0.01,1200,6,Type B,Square,62.5
+0.02,1850,0,Type A,Square,84.9
+0.012,2000,0,Type B,Square Rotated 45,66.89
+0.021,1700,0,Type B,Circular,86.925
+0.05,1850,7,Type B,Circular,83.845
+0.012,1800,6,Type A,Square,85.2325
+0.005,1500,5,Type B,Square Rotated 45,60.86
+0.025,1550,4,Type A,Square,85.23
+0.03,1850,9,Type A,Circular,82.6725
+0.02,1200,10,Type A,Square,70.2075
+0.028,1725,10,Type B,Square Rotated 45,88.5125
+0.03,1712,7,Type A,Square,88.895
+0.029,2000,9,Type B,Circular,82.6425
+0.029,1800,9,Type B,Triangular,83.2175
+0.08,1725,6,Type A,Square Rotated 45,85.5875
+0.08,1575,9,Type B,Square,84.805
+0.005,1550,4,Type A,Circular,61.370000000000005
+0.015,1600,4,Type A,Square Rotated 45,85.86
+0.012,2000,9,Type B,Square Rotated 45,74.7075
+0.012,1750,0,Type B,Square,75.0875
+0.015,1750,6,Type A,Triangular,92.47999999999999
+0.01,1750,6,Type A,Triangular,79.98
+0.021,1725,7,Type B,Triangular,90.4725
+0.1,1700,0,Type A,Square,76.445
+0.025,1725,6,Type B,Triangular,90.71249999999999
+0.028,1712,6,Type A,Triangular,89.0475
+0.08,1300,7,Type A,Square,61.4225
+0.029,1500,0,Type A,Square Rotated 45,69.71
+0.012,1850,8,Type B,Square,81.1725
+0.029,1550,9,Type B,Triangular,85.48499999999999
+0.02,1850,9,Type A,Square,92.7175
+0.025,1725,7,Type B,Triangular,89.07249999999999
+0.021,1575,5,Type A,Triangular,92.94749999999999
+0.015,1800,0,Type A,Circular,85.5275
+0.005,1600,8,Type A,Circular,71.56750000000001
+0.005,1750,4,Type A,Triangular,54.980000000000004
+0.028,1850,5,Type B,Square,91.755
+0.029,1750,6,Type A,Circular,92.45750000000001
+0.1,1900,10,Type A,Triangular,70.3975
+0.012,1850,7,Type A,Square,81.83500000000001
+0.02,1700,5,Type B,Circular,98.87
+0.021,1500,0,Type B,Triangular,69.37249999999999
+0.05,1850,10,Type B,Triangular,75.64
+0.01,1750,8,Type B,Circular,82.73
+0.03,1200,9,Type B,Triangular,56.644999999999996
+0.025,1575,7,Type A,Square Rotated 45,94.45
+0.015,1550,9,Type B,Circular,95.61250000000001
+0.02,1850,8,Type B,Square Rotated 45,92.0325
+0.012,1725,8,Type A,Circular,83.2325
+0.012,1800,7,Type B,Square,83.5925
+0.015,1700,5,Type A,Circular,98.87
+0.025,1712,8,Type A,Circular,93.7475
+0.021,1725,0,Type A,Square Rotated 45,85.58
+0.0225,1500,5,Type B,Circular,84.74000000000001
+0.02,1575,8,Type A,Square,97.6975
+0.02,1712,10,Type A,Square,94.6575
+0.1,1300,7,Type B,Square Rotated 45,59.239999999999995
+0.0225,1725,8,Type A,Square,95.2325
+0.02,1300,5,Type B,Circular,73.87
+0.01,1725,5,Type B,Triangular,80.4825
+0.029,1750,10,Type A,Circular,87.665
+0.0225,1300,10,Type B,Square,68.5775
+0.021,1725,8,Type A,Square,95.9925
+0.02,1550,0,Type B,Square Rotated 45,87.285
+0.02,1725,0,Type A,Triangular,81.9075
+0.025,1725,5,Type A,Triangular,90.71249999999999
+0.029,1200,8,Type B,Circular,66.4925
+0.03,1900,7,Type B,Square,83.2975
+0.02,1725,7,Type A,Square Rotated 45,95.885
+0.028,2000,10,Type B,Square,83.0925
+0.012,1575,7,Type B,Square,85.86
+0.01,1300,4,Type A,Triangular,43.817499999999995
+0.025,1200,9,Type A,Triangular,63.28999999999999
+0.021,1725,6,Type A,Square,98.295
+0.0225,1900,8,Type B,Square Rotated 45,88.28
+0.02,1850,0,Type B,Square,84.9
+0.05,1300,8,Type B,Square,63.337500000000006
+0.028,1750,6,Type B,Square Rotated 45,92.8025
+0.015,1725,8,Type B,Circular,95.7325
+0.02,1600,9,Type A,Square,96.7425
+0.01,1900,5,Type A,Square,81.35249999999999
+0.021,1500,4,Type A,Triangular,67.94749999999999
+0.03,1300,7,Type A,Triangular,58.2625
+0.012,1900,5,Type B,Triangular,75.17
+0.1,1575,6,Type B,Square Rotated 45,85.88
+0.1,1600,9,Type B,Circular,83.1325
+0.012,1550,0,Type B,Square Rotated 45,74.785
+0.08,1800,8,Type A,Triangular,77.31
+0.1,1750,7,Type A,Square Rotated 45,82.9025
+0.005,1500,0,Type B,Square,51.425
+0.028,1200,6,Type B,Square,70.78
+0.028,1750,7,Type B,Square Rotated 45,91.16250000000001
+0.02,1800,8,Type B,Square Rotated 45,93.79
+0.005,1200,8,Type B,Square,47.697500000000005
+0.005,1300,5,Type A,Square,50.0
+0.005,1850,8,Type A,Circular,67.5425
+0.028,1700,6,Type B,Circular,94.65
+0.021,2000,4,Type A,Triangular,72.5525
+0.01,1550,7,Type A,Square Rotated 45,84.22
+0.1,1700,7,Type A,Square,85.88
+0.02,1800,4,Type A,Square Rotated 45,83.5925
+0.03,1500,9,Type A,Square,75.3275
+0.029,1550,7,Type A,Square,93.285
+0.012,1750,7,Type B,Square Rotated 45,82.8825
+0.02,1600,6,Type A,Circular,98.87
+0.025,1300,8,Type A,Triangular,64.245
+0.005,1200,4,Type A,Circular,36.370000000000005
+0.02,1500,7,Type B,Square,85.86
+0.015,1550,8,Type B,Square,97.6975
+0.01,2000,0,Type B,Circular,67.4
+0.0225,1900,0,Type A,Square,81.1475
+0.029,1700,8,Type A,Circular,91.4925
+0.028,1750,6,Type A,Triangular,88.25999999999999
+0.005,1575,9,Type B,Square,71.7425
+0.05,1500,8,Type A,Square,75.8375
+0.025,1300,4,Type A,Triangular,54.0475
+0.1,1712,5,Type B,Square,86.97
+0.012,1800,10,Type B,Square,80.44
+0.029,1900,9,Type A,Square,85.52000000000001
+0.025,2000,4,Type B,Circular,76.205
+0.029,1575,6,Type A,Circular,93.795
+0.08,1900,6,Type A,Square,81.91499999999999
+0.025,1712,4,Type B,Square Rotated 45,83.03999999999999
+0.021,1200,8,Type A,Square Rotated 45,70.1875
+0.1,1900,10,Type A,Square,76.58
+0.029,1750,7,Type A,Square Rotated 45,90.3075
+0.02,1850,9,Type A,Square Rotated 45,91.0775
+0.021,1712,10,Type B,Square Rotated 45,92.1475
+0.01,1712,6,Type B,Circular,85.82000000000001
+0.01,1575,9,Type A,Square Rotated 45,82.60249999999999
+0.012,1850,4,Type A,Square,70.975
+0.021,1575,9,Type B,Square,95.8725
+0.028,1700,8,Type A,Square Rotated 45,91.8375
+0.012,1850,5,Type A,Circular,82.345
+0.01,1600,7,Type A,Triangular,79.6775
+0.005,1700,0,Type A,Square Rotated 45,62.285
+0.02,1712,10,Type B,Circular,93.5275
+0.005,1300,9,Type A,Square Rotated 45,45.1025
+0.03,2000,9,Type B,Square Rotated 45,78.29249999999999
+0.08,1712,5,Type B,Triangular,81.33
+0.028,1800,10,Type B,Circular,87.59
+0.01,1575,5,Type B,Square,87.5
+0.029,1575,9,Type B,Square Rotated 45,90.02749999999999
+0.02,1750,4,Type A,Triangular,79.98
+0.015,1600,9,Type B,Circular,95.61250000000001
+0.029,1500,6,Type B,Triangular,76.24249999999999
+0.01,1600,5,Type B,Circular,86.37
+0.05,1575,5,Type B,Triangular,84.4575
+0.02,1300,8,Type A,Square,72.6975
+0.021,1850,8,Type A,Circular,91.67250000000001
+0.028,1550,10,Type A,Circular,89.8575
+0.1,1900,4,Type B,Circular,67.7425
+0.05,1600,6,Type B,Triangular,84.4575
+0.01,1700,0,Type A,Triangular,70.24249999999999
+0.05,1500,0,Type A,Square,67.065
+0.08,1500,5,Type B,Circular,74.4325
+0.015,1600,6,Type B,Square Rotated 45,98.36
+0.025,1600,4,Type B,Square,85.23
+0.1,2000,9,Type A,Square Rotated 45,74.72749999999999
+0.0225,1300,9,Type A,Square Rotated 45,68.4725
+0.021,1300,8,Type A,Circular,70.6975
+0.05,1575,7,Type B,Square Rotated 45,87.36
+0.02,1800,8,Type A,Square Rotated 45,93.79
+0.01,1575,8,Type B,Square Rotated 45,83.5575
+0.01,2000,4,Type B,Square,67.105
+0.029,1750,10,Type A,Square,88.795
+0.03,1500,8,Type B,Square Rotated 45,74.6425
+0.015,1200,0,Type A,Circular,62.795
+0.029,1900,5,Type B,Triangular,82.595
+0.028,1300,0,Type A,Square Rotated 45,58.065
+0.01,1725,0,Type A,Circular,74.46000000000001
+0.012,1200,0,Type A,Square Rotated 45,49.785
+0.028,2000,5,Type B,Circular,86.75500000000001
+0.0225,1850,0,Type A,Circular,82.14
+0.02,1750,6,Type B,Square Rotated 45,97.0225
+0.02,1550,0,Type A,Square Rotated 45,87.285
+0.015,1712,6,Type B,Triangular,93.2675
+0.0225,1600,4,Type A,Triangular,79.6875
+0.005,1725,0,Type B,Triangular,56.9075
+0.015,1750,4,Type A,Circular,85.0325
+0.05,1550,9,Type B,Square Rotated 45,85.7425
+0.005,1300,7,Type A,Square,48.36
+0.025,1900,0,Type A,Triangular,74.32499999999999
+0.05,1575,6,Type B,Square Rotated 45,89.0
+0.015,1600,9,Type A,Triangular,90.56
+0.029,1900,9,Type A,Square Rotated 45,83.88
+0.01,1900,6,Type A,Circular,80.2225
+0.02,1550,5,Type B,Triangular,93.8175
+0.08,1800,5,Type A,Triangular,79.6125
+0.08,1550,4,Type A,Square,75.5625
+0.08,1200,8,Type B,Square Rotated 45,59.120000000000005
+0.005,1575,9,Type A,Circular,70.6125
+0.015,1700,6,Type B,Square Rotated 45,98.36
+0.021,1900,6,Type B,Square Rotated 45,91.3425
+0.012,1725,8,Type B,Circular,83.2325
+0.012,1600,10,Type B,Triangular,76.52499999999999
+0.021,1550,7,Type A,Square,97.49
+0.03,1800,0,Type A,Square,77.7425
+0.01,1800,7,Type A,Triangular,77.41
+0.03,2000,10,Type A,Square Rotated 45,76.7575
+0.05,1500,8,Type B,Circular,74.70750000000001
+0.1,1550,0,Type A,Triangular,70.26249999999999
+0.029,1725,9,Type A,Circular,89.70250000000001
+0.03,1200,8,Type B,Triangular,57.599999999999994
+0.015,1900,5,Type A,Square,93.85249999999999
+0.03,1900,0,Type B,Square,73.8625
+0.005,1700,9,Type A,Triangular,65.56
+0.012,1750,7,Type B,Square,84.52250000000001
+0.05,1700,4,Type A,Square,78.14
+0.01,1712,4,Type B,Triangular,68.2675
+0.05,1800,7,Type B,Square Rotated 45,85.0925
+0.01,1712,6,Type A,Square Rotated 45,85.31
+0.025,1725,0,Type B,Square,85.82
+0.012,1500,10,Type A,Triangular,64.02499999999999
+0.1,1750,7,Type A,Circular,83.41250000000001
+0.021,1712,9,Type B,Square Rotated 45,93.68249999999999
+0.021,1700,0,Type B,Square,88.05499999999999
+0.005,1575,7,Type B,Square Rotated 45,71.72
+0.0225,1712,7,Type B,Square Rotated 45,94.54
+0.015,1700,7,Type A,Square,98.36
+0.005,1300,7,Type B,Square,48.36
+0.05,1550,9,Type A,Circular,86.2525
+0.01,1500,5,Type A,Square,75.0
+0.021,1600,4,Type A,Triangular,80.44749999999999
+0.05,1900,4,Type A,Triangular,65.81
+0.025,1575,10,Type A,Triangular,86.755
+0.01,1500,10,Type B,Square Rotated 45,68.5675
+0.005,1712,0,Type A,Triangular,57.192499999999995
+0.01,2000,10,Type A,Triangular,68.63
+0.0225,1900,9,Type B,Circular,87.835
+0.05,1575,8,Type A,Circular,87.20750000000001
+0.02,1900,6,Type B,Triangular,87.66999999999999
+0.0225,1300,7,Type A,Square Rotated 45,70.09
+0.08,1500,7,Type A,Square Rotated 45,72.2825
+0.05,1850,8,Type A,Circular,83.1825
+0.028,1300,10,Type A,Triangular,59.80499999999999
+0.03,1200,8,Type A,Square,63.7825
+0.05,1850,6,Type A,Triangular,80.4325
+0.028,1575,4,Type B,Triangular,77.0975
+0.1,1850,5,Type A,Square,83.495
+0.02,1500,7,Type A,Triangular,79.6775
+0.025,1300,0,Type B,Square,61.655
+0.025,1700,0,Type B,Square,86.655
+0.0225,2000,8,Type A,Square Rotated 45,86.5325
+0.028,1725,4,Type B,Square,82.445
+0.03,1800,10,Type A,Circular,82.89500000000001
+0.005,1600,10,Type A,Square,70.2075
+0.005,1200,7,Type A,Square Rotated 45,46.72
+0.01,1900,7,Type A,Square Rotated 45,78.07249999999999
+0.015,1575,4,Type A,Circular,86.37
+0.02,1575,8,Type B,Square,97.6975
+0.05,1800,4,Type A,Circular,74.7425
+0.1,2000,4,Type B,Circular,65.995
+0.01,1725,5,Type A,Square,86.66499999999999
+0.01,1575,4,Type B,Triangular,68.8175
+0.02,1200,5,Type A,Square Rotated 45,73.36
+0.029,1500,7,Type B,Square,80.785
+0.029,1750,5,Type B,Circular,92.45750000000001
+0.005,1300,7,Type B,Triangular,42.177499999999995
+0.012,1900,9,Type A,Square,78.095
+0.0225,1500,9,Type B,Square,82.61250000000001
+0.028,1200,0,Type B,Circular,58.575
+0.02,1500,8,Type A,Square Rotated 45,83.5575
+0.029,1850,5,Type B,Square,90.9
+0.025,1800,9,Type B,Square Rotated 45,90.56500000000001
+0.021,1712,10,Type A,Circular,92.6575
+0.08,1850,7,Type A,Triangular,76.215
+0.012,1750,0,Type B,Circular,73.95750000000001
+0.0225,1200,7,Type B,Triangular,65.5475
+0.03,1725,10,Type A,Square Rotated 45,83.8175
+0.01,1850,0,Type A,Triangular,66.2175
+0.021,2000,5,Type B,Square Rotated 45,89.595
+0.08,1700,4,Type A,Square,75.5625
+0.05,1550,5,Type A,Square,90.64
+0.0225,1750,10,Type B,Square Rotated 45,90.6
+0.05,1600,9,Type A,Circular,86.2525
+0.05,1575,6,Type B,Circular,89.51
+0.025,1300,10,Type A,Circular,66.8075
+0.021,1700,0,Type B,Triangular,81.87249999999999
+0.005,1600,7,Type B,Square Rotated 45,71.72
+0.08,1500,6,Type B,Triangular,69.38
+0.028,1900,4,Type A,Square Rotated 45,75.4925
+0.05,1850,4,Type A,Triangular,67.9325
+0.015,1600,10,Type B,Circular,94.0775
+0.0225,1712,5,Type A,Circular,96.69
+0.05,1600,5,Type A,Circular,89.51
+0.028,1300,10,Type A,Square Rotated 45,64.3475
+0.01,1712,0,Type B,Square,75.875
+0.02,1575,0,Type B,Triangular,82.74249999999999
+0.012,1850,6,Type B,Square,83.475
+0.03,1200,0,Type A,Square,55.010000000000005
+0.05,1800,10,Type B,Square,83.58
+0.028,2000,9,Type B,Triangular,78.44500000000001
+0.015,1725,0,Type B,Square,88.09
+0.08,1850,0,Type B,Circular,71.83250000000001
+0.012,1725,4,Type B,Triangular,67.9825
+0.1,1700,6,Type B,Square Rotated 45,85.88
+0.0225,1800,10,Type A,Circular,90.18
+0.025,1575,6,Type A,Circular,96.60000000000001
+0.029,1300,10,Type A,Circular,64.0025
+0.0225,1800,0,Type B,Circular,83.89750000000001
+0.1,1712,4,Type A,Triangular,68.2875
+0.029,1300,4,Type B,Circular,56.295
+0.02,1725,5,Type A,Circular,98.035
+0.021,1500,5,Type B,Triangular,80.44749999999999
+0.02,1712,4,Type B,Triangular,80.7675
+0.025,1700,4,Type B,Square,85.23
+0.028,1550,4,Type A,Square,83.28
+0.005,1750,9,Type A,Circular,69.275
+0.01,1725,8,Type B,Square Rotated 45,82.7225
+0.01,1550,6,Type A,Triangular,81.3175
+0.005,1550,6,Type B,Square Rotated 45,73.36
+0.02,1725,9,Type A,Square,95.9075
+0.021,1800,6,Type A,Square,96.8625
+0.028,1575,0,Type B,Circular,83.575
+0.005,1712,4,Type A,Square Rotated 45,60.31
+0.015,1500,0,Type B,Circular,75.295
+0.05,1550,4,Type B,Square Rotated 45,76.5
+0.025,2000,0,Type A,Circular,77.63000000000001
+0.005,1600,4,Type B,Square Rotated 45,60.86
+0.015,1850,6,Type B,Triangular,89.79249999999999
+0.015,1700,10,Type B,Circular,94.0775
+0.029,1300,5,Type A,Square,69.925
+0.015,1900,0,Type A,Triangular,76.595
+0.025,1712,7,Type B,Square,95.53999999999999
+0.1,1550,10,Type B,Triangular,76.54499999999999
+0.1,1200,4,Type A,Square,50.019999999999996
+0.01,1600,0,Type A,Square Rotated 45,74.785
+0.05,1850,6,Type B,Square,86.61500000000001
+0.01,1200,8,Type A,Square Rotated 45,58.557500000000005
+0.012,1712,10,Type B,Square,82.1575
+0.01,1300,9,Type A,Triangular,53.06
+0.021,1900,8,Type B,Triangular,84.4975
+0.029,1900,7,Type A,Circular,86.00750000000001
+0.028,1200,0,Type B,Triangular,53.522499999999994
+0.05,1600,7,Type B,Square Rotated 45,87.36
+0.005,1300,0,Type B,Triangular,32.7425
+0.03,1725,8,Type A,Square,87.9475
+0.029,1725,9,Type B,Square Rotated 45,89.19250000000001
+0.029,1700,7,Type B,Square Rotated 45,91.645
+0.01,1300,0,Type B,Square,51.425
+0.012,1550,0,Type A,Circular,75.295
+0.1,2000,5,Type B,Circular,78.495
+0.025,1550,9,Type B,Square Rotated 45,92.8325
+0.0225,1500,0,Type A,Circular,73.665
+0.03,1750,4,Type A,Triangular,71.065
+0.029,1200,5,Type B,Square Rotated 45,68.285
+0.02,1600,0,Type B,Triangular,82.74249999999999
+0.08,1700,7,Type A,Triangular,80.24
+0.025,1700,0,Type B,Triangular,80.4725
+0.021,1700,7,Type B,Circular,96.36
+0.05,1800,5,Type B,Square Rotated 45,86.7325
+0.015,1300,8,Type B,Triangular,66.515
+0.015,1712,4,Type A,Triangular,80.7675
+0.01,1800,7,Type B,Square,83.5925
+0.021,1575,4,Type A,Triangular,80.44749999999999
+0.021,1500,6,Type B,Square,86.63
+0.028,1500,4,Type A,Square,70.78
+0.03,1550,10,Type B,Square Rotated 45,84.6525
+0.08,1200,9,Type A,Square Rotated 45,58.165
+0.02,1725,7,Type A,Circular,96.39500000000001
+0.028,1300,8,Type A,Square Rotated 45,66.8375
+0.02,1575,4,Type B,Square,87.5
+0.015,1500,7,Type A,Circular,84.73
+0.03,1550,7,Type B,Square,89.445
+0.005,1300,7,Type B,Square Rotated 45,46.72
+0.012,1200,7,Type A,Square Rotated 45,59.22
+0.01,1300,8,Type B,Triangular,54.015
+0.0225,1750,6,Type B,Square Rotated 45,95.3925
